@@ -1,4 +1,4 @@
-<h1>Hi, I'm <a href="https://yapasza.ru/" target="_blank">Pavel</a>
+<h1>Hi, I'm <a href="https://karpetz.ru/" target="_blank">Pavel</a>
 <img src="https://community.cloudflare.steamstatic.com/economy/emoticon/spiffo" height="24"/></h1>
 <h3>Junior frontend developer, based in Yekaterinburg, Russia. <img src="https://community.cloudflare.steamstatic.com/public/images/countryflags/ru.gif" height="12"></h3>
 
