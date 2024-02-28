@@ -2,7 +2,7 @@
 <img src="https://community.cloudflare.steamstatic.com/economy/emoticon/spiffo" height="24"/></h1>
 <h3>Junior frontend developer, based in Yekaterinburg, Russia. <img src="https://community.cloudflare.steamstatic.com/public/images/countryflags/ru.gif" height="12"></h3>
 
-[![codewars](https://www.codewars.com/users/yaPasza/badges/large)](https://www.codewars.com/users/Karpetz)
+[![codewars](https://www.codewars.com/users/Karpetz/badges/large)](https://www.codewars.com/users/Karpetz)
 
 <h3>My profiles:</h3>
 
