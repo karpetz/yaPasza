@@ -2,13 +2,13 @@
 <img src="https://community.cloudflare.steamstatic.com/economy/emoticon/spiffo" height="24"/></h1>
 <h3>Junior frontend developer, based in Yekaterinburg, Russia. <img src="https://community.cloudflare.steamstatic.com/public/images/countryflags/ru.gif" height="12"></h3>
 
-[![codewars](https://www.codewars.com/users/yaPasza/badges/large)](https://www.codewars.com/users/yaPasza)
+[![codewars](https://www.codewars.com/users/yaPasza/badges/large)](https://www.codewars.com/users/Karpetz)
 
 <h3>My profiles:</h3>
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yapasza)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/yapasza)
-[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/yapasza)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/karpetzxc)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/karpetz)
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/krptz)
 
 <h3>I'm using:</h3>
 
